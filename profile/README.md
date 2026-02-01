@@ -7,7 +7,7 @@
 
 Nós estamos na era da informação, na era da rede social, e mesmo assim, seguimos tomando decisões políticas baseadas em narrativas.
 
-O Avoar se posiciona como um **movimento técnologico** para o Brasil, que visa padronizar e redistribuir gratuitamente dados abertos do legislativo no Brasil.<br>
+O Avoar se posiciona como um **movimento tecnológico** para o Brasil, que visa padronizar e redistribuir gratuitamente dados abertos do legislativo no Brasil.<br>
 Atualmente, não há nenhuma solução completa que vai além da Câmara dos Deputados e seus dados básicos, nós faremos diferente.
 
 No momento, o Avoar se encontra em desenvolvimento, mas já conseguimos integrar as seguintes fontes:
